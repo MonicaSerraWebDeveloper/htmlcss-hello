@@ -4,11 +4,8 @@
     padding: 0;
 }
 
-.box-title {
-    background-color: beige;
-}
-
 .title-container {
+    background-color: beige;
     height: 100vh;
     display: flex;
     flex-direction: row;
