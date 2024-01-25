@@ -4,6 +4,28 @@
     padding: 0;
 }
 
+.box-title {
+    background-color: beige;
+}
+
+.title-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+    
+
 .title-one {
     font-family: 'Poppins', sans-serif;
+    color: lightblue; 
+    text-align: center;
+    font-size: 100px;
+    text-decoration: solid;
+}
+
+.title-one:hover {
+    color: #ddd;
 }
